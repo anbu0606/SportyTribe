@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Melbourne Running Club Weekly 10K",
+    "date": "2025-12-25",
+    "location": "Melbourne Park",
+    "lat": -37.8214,
+    "lng": 144.9786,
+    "ratings": [5, 4, 4, 5],
+    "reviews": ["Great atmosphere!", "Perfect route for runners."]
+  },
+  {
+    "id": 2,
+    "name": "Perth Beach Triathlon",
+    "date": "2025-12-17",
+    "location": "Cottesloe Beach, Perth",
+    "lat": -31.9956,
+    "lng": 115.7518,
+    "ratings": [5, 3, 4],
+    "reviews": ["Fun but challenging!", "Lovely beach venue."]
+  },
+  {
+    "id": 3,
+    "name": "Brunswick Jogging Meetup",
+    "date": "2025-10-27",
+    "location": "Brunswick Oval, Melbourne",
+    "lat": -37.7642,
+    "lng": 144.9618,
+    "ratings": [4, 5, 4],
+    "reviews": ["Nice local crowd!", "Perfect morning event."]
+  },
+  {
+    "id": 4,
+    "name": "Gold Coast Surf Challenge",
+    "date": "2025-12-28",
+    "location": "Surfers Paradise, Gold Coast",
+    "lat": -28.0027,
+    "lng": 153.4290,
+    "ratings": [5, 4, 5],
+    "reviews": ["Amazing waves!", "Great community event."]
+  },
+  {
+    "id": 5,
+    "name": "Sydney Harbour Swim Fest",
+    "date": "2025-11-02",
+    "location": "Sydney Harbour",
+    "lat": -33.8523,
+    "lng": 151.2108,
+    "ratings": [4, 4, 5],
+    "reviews": ["Beautiful scenery!", "Very well organized."]
+  },
+  {
+    "id": 6,
+    "name": "Brisbane City Cycling Tour",
+    "date": "2026-02-09",
+    "location": "South Bank, Brisbane",
+    "lat": -27.4810,
+    "lng": 153.0234,
+    "ratings": [5, 5],
+    "reviews": ["Loved the city route!", "Excellent organization."]
+  },
+  {
+    "id": 7,
+    "name": "St Kilda Sunday Runners",
+    "date": "2025-12-09",
+    "location": "St Kilda Beach, Melbourne",
+    "lat": -37.8676,
+    "lng": 144.9760,
+    "ratings": [4, 4, 5],
+    "reviews": ["Very refreshing!", "Friendly group."]
+  },
+  {
+    "id": 8,
+    "name": "Adelaide Tri Sprint",
+    "date": "2025-12-14",
+    "location": "Adelaide Oval",
+    "lat": -34.9156,
+    "lng": 138.5961,
+    "ratings": [4, 3, 4],
+    "reviews": ["Challenging but rewarding!", "Loved the route!"]
+  },
+  {
+    "id": 9,
+    "name": "Sydney Marathon Relay",
+    "date": "2025-12-26",
+    "location": "Sydney CBD",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "ratings": [5, 5, 4],
+    "reviews": ["Excellent relay coordination!", "Loved the crowd energy!"]
+  },
+  {
+    "id": 10,
+    "name": "Gold Coast Half Marathon",
+    "date": "2025-11-11",
+    "location": "Broadbeach, Gold Coast",
+    "lat": -28.0260,
+    "lng": 153.4310,
+    "ratings": [5, 5, 5],
+    "reviews": ["Perfect weather!", "Great experience overall!"]
+  },
+  {
+    "id": 11,
+    "name": "Perth Park Fitness Meetup",
+    "date": "2025-11-04",
+    "location": "Kings Park, Perth",
+    "lat": -31.9617,
+    "lng": 115.8423,
+    "ratings": [4, 4],
+    "reviews": ["Beautiful view!", "Very energizing."]
+  },
+  {
+    "id": 12,
+    "name": "Brisbane River Ride",
+    "date": "2025-11-19",
+    "location": "Brisbane River Loop",
+    "lat": -27.4748,
+    "lng": 153.0176,
+    "ratings": [5, 5, 4],
+    "reviews": ["Loved the city loop!", "Smooth roads."]
+  },
+  {
+    "id": 13,
+    "name": "Sydney Coastal 5K",
+    "date": "2025-12-13",
+    "location": "Bondi Beach, Sydney",
+    "lat": -33.8908,
+    "lng": 151.2743,
+    "ratings": [4, 5],
+    "reviews": ["Stunning beach route!", "Will join again."]
+  },
+  {
+    "id": 14,
+    "name": "Melbourne City Night Ride",
+    "date": "2025-12-23",
+    "location": "Federation Square, Melbourne",
+    "lat": -37.8183,
+    "lng": 144.9671,
+    "ratings": [5, 4],
+    "reviews": ["City lights were amazing!", "Loved the vibe."]
+  },
+  {
+    "id": 15,
+    "name": "Perth Surfboard Challenge",
+    "date": "2026-01-29",
+    "location": "City Beach, Perth",
+    "lat": -31.9348,
+    "lng": 115.7513,
+    "ratings": [4, 5, 4],
+    "reviews": ["Great surf challenge!", "Nice crowd."]
+  },
+  {
+    "id": 16,
+    "name": "Melbourne Fun Tri Challenge",
+    "date": "2025-10-25",
+    "location": "Albert Park Lake, Melbourne",
+    "lat": -37.8485,
+    "lng": 144.9692,
+    "ratings": [4, 3, 5],
+    "reviews": ["Tough but fun!", "Well managed event."]
+  },
+  {
+    "id": 17,
+    "name": "Mornington Peninsula Ride",
+    "date": "2025-12-03",
+    "location": "Mornington, VIC",
+    "lat": -38.2173,
+    "lng": 145.0369,
+    "ratings": [5, 4],
+    "reviews": ["Beautiful route!", "Nice coastal view."]
+  },
+  {
+    "id": 18,
+    "name": "Fitzroy Fun Run",
+    "date": "2026-01-09",
+    "location": "Edinburgh Gardens, Melbourne",
+    "lat": -37.7904,
+    "lng": 144.9781,
+    "ratings": [4, 5, 4],
+    "reviews": ["Loved the park!", "Very lively crowd."]
+  },
+  {
+    "id": 19,
+    "name": "Melbourne Cycling Festival",
+    "date": "2026-01-31",
+    "location": "Albert Park, Melbourne",
+    "lat": -37.8485,
+    "lng": 144.9692,
+    "ratings": [5, 4, 5],
+    "reviews": ["Great cycling route!", "Perfect weather."]
+  },
+  {
+    "id": 20,
+    "name": "Brisbane Night Marathon",
+    "date": "2025-12-10",
+    "location": "Roma Street, Brisbane",
+    "lat": -27.4656,
+    "lng": 153.0173,
+    "ratings": [4, 5, 4],
+    "reviews": ["Night view was awesome!", "Very well arranged."]
+  },
+  {
+    "id": 21,
+    "name": "Sydney Harbour Fun Run",
+    "date": "2026-02-01",
+    "location": "Darling Harbour, Sydney",
+    "lat": -33.8728,
+    "lng": 151.2007,
+    "ratings": [5, 4, 5],
+    "reviews": ["Scenic route!", "Fantastic energy."]
+  },
+  {
+    "id": 22,
+    "name": "Adelaide Beach Volleyball Fest",
+    "date": "2025-12-19",
+    "location": "Henley Beach, Adelaide",
+    "lat": -34.9213,
+    "lng": 138.4948,
+    "ratings": [4, 4, 5],
+    "reviews": ["Super fun event!", "Great for beginners too."]
+  },
+  {
+    "id": 23,
+    "name": "Adelaide Running Meetup",
+    "date": "2025-12-16",
+    "location": "Victoria Park, Adelaide",
+    "lat": -34.9343,
+    "lng": 138.6141,
+    "ratings": [5, 5],
+    "reviews": ["Perfect atmosphere!", "Good weekend activity."]
+  },
+  {
+    "id": 24,
+    "name": "Gold Coast Ocean Run",
+    "date": "2025-10-21",
+    "location": "Burleigh Heads, Gold Coast",
+    "lat": -28.0943,
+    "lng": 153.4550,
+    "ratings": [5, 5, 5],
+    "reviews": ["Beautiful ocean view!", "Amazing coordination."]
+  },
+  {
+    "id": 25,
+    "name": "Brisbane CrossFit Open",
+    "date": "2025-10-25",
+    "location": "Fortitude Valley, Brisbane",
+    "lat": -27.4567,
+    "lng": 153.0349,
+    "ratings": [5, 4],
+    "reviews": ["Loved the energy!", "Very motivating event."]
+  },
+  {
+    "id": 26,
+    "name": "Perth Runners Sunday Meet",
+    "date": "2025-10-21",
+    "location": "Langley Park, Perth",
+    "lat": -31.9627,
+    "lng": 115.8716,
+    "ratings": [4, 4],
+    "reviews": ["Calm route!", "Friendly participants."]
+  },
+  {
+    "id": 27,
+    "name": "Gold Coast Surf Life Challenge",
+    "date": "2025-11-28",
+    "location": "Main Beach, Gold Coast",
+    "lat": -27.9816,
+    "lng": 153.4280,
+    "ratings": [5, 5],
+    "reviews": ["Fantastic ocean challenge!", "Loved the vibe."]
+  },
+  {
+    "id": 28,
+    "name": "Brisbane Park Fitness Meetup",
+    "date": "2025-10-10",
+    "location": "South Bank Parklands, Brisbane",
+    "lat": -27.4794,
+    "lng": 153.0225,
+    "ratings": [4, 5],
+    "reviews": ["Great community energy!", "Fun and fit morning!"]
+  }
+]
